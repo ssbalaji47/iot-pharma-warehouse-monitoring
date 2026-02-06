@@ -52,6 +52,4 @@ https://wokwi.com/ (Add your project link here)
 - Mobile alert notifications  
 - Automatic ventilation control  
 
-## Author
-Final Year ECE Student  
-Pharmaceutical Environment Monitoring System using Arduino
+
